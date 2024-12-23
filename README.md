@@ -322,3 +322,8 @@ implementation combination.
     implementation = ConcreteImplementationB()
     abstraction = ExtendedAbstraction(implementation)
     client_code(abstraction)
+
+
+
+
+    creditos: https://refactoring.guru/pt-br/design-patterns
